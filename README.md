@@ -63,7 +63,7 @@ python Scanner.py predict <image_path>
 
 ```bash
 python Scanner.py predict letter_a.png
-# 🔍 Predicted character: A
+#    Predicted character: A
 #    Confidence: 98.3%
 ```
 
@@ -77,7 +77,7 @@ This segments individual characters from the image using adaptive thresholding a
 
 ```bash
 python Scanner.py scan handwritten_note.png
-# 📝 Detected 12 character(s):
+#    Detected 12 character(s):
 #
 #    HELLO
 #    WORLD
