@@ -1,4 +1,4 @@
-# OCR Scanner
+# AlphaReader
 
 A handwritten character recognition system built with PyTorch. Trains a CNN on the **EMNIST-Letters** dataset and uses it to recognise A–Z characters from real images.
 
